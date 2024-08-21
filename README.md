@@ -1,0 +1,1 @@
+# Smarthome-thermostat-nashi
